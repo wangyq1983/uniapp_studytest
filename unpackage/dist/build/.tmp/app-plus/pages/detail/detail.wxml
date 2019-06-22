@@ -1,0 +1,1 @@
+<view style="padding:20rpx;font-size:32rpx;">{{''+detail.name+''}}<view class="_br"></view><view class="_hr"></view><view class="_br"></view>{{''+detail.summary+''}}<view class="_br"></view><view class="_hr"></view><view class="_br"></view>{{''+detail.address+''}}<view data-event-opts="{{[['tap',[['fenxiang',['$event']]]]]}}" bindtap="__e">分享</view></view>

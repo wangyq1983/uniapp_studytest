@@ -1,0 +1,17 @@
+.subMenu{
+	width:100%;
+	height:100upx;
+	position: fixed;
+	z-index: 9;
+	top:0;
+	left:0;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	align-items: center;
+}
+.subItem{
+	height:100upx;
+	line-height: 100upx;
+	padding:0 20upx; font-size: 32upx;
+}
